@@ -42,7 +42,7 @@ function App() {
         </p>
 
         <p>
-          <label htmlFor="rotate"> second wersdfadf circle</label>
+          <label htmlFor="rotate"> second wersdfadf circlee</label>
           <input
             type="number"
             id="rotate"
