@@ -42,7 +42,7 @@ function App() {
         </p>
 
         <p>
-          <label htmlFor="rotate"> second  </label>
+          <label htmlFor="rotate"> second ss </label>
           <input
             type="number"
             id="rotate"
