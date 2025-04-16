@@ -49,6 +49,15 @@ function App() {
             onChange={(event) => setRotate(+event.target.value)}
           />
         </p>
+
+        <p>
+          <label htmlFor="rotate"> second ss </label>
+          <input
+            type="number"
+            id="rotate"
+            onChange={(event) => setRotate(+event.target.value)}
+          />
+        </p>
       </div>
     </div>
   );
