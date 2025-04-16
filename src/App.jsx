@@ -42,7 +42,7 @@ function App() {
         </p>
 
         <p>
-          <label htmlFor="rotate">Rotateeeeee</label>
+          <label htmlFor="rotate">circle</label>
           <input
             type="number"
             id="rotate"
