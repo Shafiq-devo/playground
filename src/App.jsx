@@ -33,7 +33,7 @@ function App() {
         </p>
 
         <p>
-          <label htmlFor="rotate">Rotate</label>
+          <label htmlFor="rotate">Rotateeeeee</label>
           <input
             type="number"
             id="rotate"
